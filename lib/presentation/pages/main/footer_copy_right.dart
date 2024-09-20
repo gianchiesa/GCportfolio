@@ -11,7 +11,7 @@ class FooterCopyRight extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      color: Theme.of(context).scaffoldBackgroundColor,
+      color: Theme.of(context).cardColor,
       width: double.maxFinite,
       padding: EdgeInsets.symmetric(vertical: Dimens.space16),
       child: Column(

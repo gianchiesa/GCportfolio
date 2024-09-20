@@ -48,6 +48,7 @@ class PortfolioTitle extends StatelessWidget {
                 Text(
                   Strings.of(context)!.portfolio,
                   style: Theme.of(context).textTheme.headline1?.copyWith(
+                        color: Palette.secondary,
                         fontSize: responsiveSize(
                           context,
                           Dimens.space36,

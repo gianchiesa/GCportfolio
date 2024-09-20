@@ -113,15 +113,17 @@ class _AnimatedTextBoxLoopState extends State<AnimatedTextBoxLoop>
               animatedTexts: [
                 TyperAnimatedText(
                   'Mobile Apps Developer',
-                  textStyle: widget.textStyle,
+                  textStyle:
+                      widget.textStyle.copyWith(color: Palette.primaryLight),
                   textAlign: widget.textAlign ?? TextAlign.start,
                 ),
                 TyperAnimatedText('Frontend Developer',
-                    textStyle: widget.textStyle,
+                    textStyle:
+                        widget.textStyle.copyWith(color: Palette.secondary),
                     textAlign: widget.textAlign ?? TextAlign.start),
                 TyperAnimatedText(
                   'Software Developer',
-                  textStyle: widget.textStyle,
+                  textStyle: widget.textStyle.copyWith(color: Palette.tersier),
                   textAlign: widget.textAlign ?? TextAlign.start,
                 ),
               ],

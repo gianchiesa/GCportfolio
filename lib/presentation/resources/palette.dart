@@ -55,7 +55,10 @@ class Palette {
   Palette._();
 
   static const Color primary = Color(0xff00B0FF);
-  static const Color primaryLight = Color(0xffF7B553);
+  static const Color primaryLight = Color.fromARGB(255, 255, 203, 239);
+  static const Color secondary = Color.fromARGB(255, 196, 255, 141);
+  static const Color tersier = Color.fromARGB(255, 255, 187, 141);
+
   static const Color darkBackground = Color(0xff18191A);
   static const Color darkCard = Color(0xff242526);
   static const Color accent = primary;

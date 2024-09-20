@@ -49,6 +49,7 @@ class ProfileDescription extends StatelessWidget {
               AnimatedTextBox(
                 text: Strings.of(context)!.hello,
                 textStyle: Theme.of(context).textTheme.headline1!.copyWith(
+                      color: Palette.primaryLight,
                       fontSize: responsiveSize(
                         context,
                         Dimens.space36,
@@ -71,6 +72,7 @@ class ProfileDescription extends StatelessWidget {
                   text: TextSpan(
                     text: Strings.of(context)!.profileTitle,
                     style: Theme.of(context).textTheme.bodyText1!.copyWith(
+                          color: Palette.primary,
                           fontSize: responsiveSize(
                             context,
                             Dimens.body1,

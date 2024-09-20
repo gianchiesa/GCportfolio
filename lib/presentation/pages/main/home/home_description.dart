@@ -45,7 +45,7 @@ class HomeDescription extends StatelessWidget {
                       fontSize: responsiveSize(
                         context,
                         Dimens.space36 - 16,
-                        Dimens.h1 - 30,
+                        Dimens.h1 - 50,
                         tablet: Dimens.h2 - 4,
                       ),
                     ),
@@ -60,7 +60,7 @@ class HomeDescription extends StatelessWidget {
                       fontSize: responsiveSize(
                         context,
                         Dimens.space36 - 16,
-                        Dimens.h1 - 30,
+                        Dimens.h1 - 50,
                         tablet: Dimens.h2 - 4,
                       ),
                     ),
