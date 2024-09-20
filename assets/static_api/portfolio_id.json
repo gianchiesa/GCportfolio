@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "title": "Ekta",
+      "descriptions": "Ini adalah aplikasi dengan user terbanyak yang pernah saya kembangkan. Aplikasi ini merupakan aplikasi yang digunakan oleh pihak golkar untuk memberitakan kegiatan/berita terbaru dari ranah politik indonesia khususnya Golkar. Selain fitur berita, ada pula beberapa fitur lain seperti kelas politik, canvassing, kartu keanggotaan, dll.",
+      "images": [
+        "assets/images/portfolio/ekta/1.png",
+        "assets/images/portfolio/ekta/2.png",
+        "assets/images/portfolio/ekta/3.png",
+        "assets/images/portfolio/ekta/4.png"
+      ],
+      "playStore": "https://play.google.com/store/apps/details?id=com.bsnpartaigolkar&hl=id",
+      "appStore": "https://apps.apple.com/id/app/ekta/id1608838377",
+      "tag": [
+        "Flutter",
+        "Membuat dari awal",
+        "iOS",
+        "Android"
+      ]
+    },
+    {
+      "title": "TemuPilih",
+      "descriptions": "TemuPilih merupakan aplikasi yang berfokus pada fitur canvassing dalam melayani client. Dalam sisi fitur memang mirip seperti aplikasi Ekta namun, tidak ada fitur berita, kelas politik, dan lain lain. Aplikasi ini digunakan oleh canvasser untuk meningkatkan kinerja mereka.",
+      "images": [
+        "assets/images/portfolio/temupilih/1.png",
+        "assets/images/portfolio/temupilih/2.png",
+        "assets/images/portfolio/temupilih/3.png"
+      ],
+      "playStore": "https://play.google.com/store/apps/details?id=com.temupilih.id&hl=id",
+      "appStore": "https://apps.apple.com/us/app/temupilih/id6503255724",
+      "tag": [
+        "Flutter",
+        "Membuat dari awal",
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "title": "Tasky",
+      "descriptions": "Aplikasi ini merupakan aplikasi internal perusahaan yang saya kembangkan untuk kebutuhan task management, absensi, company performance management, employee performance management dan masih banyak lagi. Aplikasi ini digunakan oleh karyawan PT. Satu Teknologi Digital",
+      "images": [
+        "assets/images/portfolio/tasky/1.png",
+        "assets/images/portfolio/tasky/2.png",
+        "assets/images/portfolio/tasky/3.png"
+      ],
+      "playStore": "https://play.google.com/store/apps/details?id=com.tasky.id&hl=en_US",
+      "appStore": "https://apps.apple.com/id/app/tasky/id6479307637?l=id",
+      "tag": [
+        "Flutter",
+        "Android",
+        "Membuat dari awal",
+        "iOS"
+      ]
+    },
+    {
+      "title": "Portaless Saller",
+      "descriptions": "Portaless Saller adalah aplikasi jual beli yang berfokus pada jasa atau service. Ada 2 aplikasi untuk Portaless, yaitu untuk sisi user dan untuk sisi saller/provider. Aplikasi ini masih dalam tahap pengembangan",
+      "images": [
+        "assets/images/portfolio/portaless/1.jpg",
+        "assets/images/portfolio/portaless/2.jpg",
+        "assets/images/portfolio/portaless/3.jpg"
+      ],
+      "playStore": "",
+      "appStore": "",
+      "tag": [
+        "Flutter",
+        "Android",
+        "Membuat dari awal",
+        "iOS",
+        "Proyek"
+      ]
+    },
+    {
+      "title": "Aqua Breeding",
+      "descriptions": "Aqua Breeding merupakan aplikasi yang saya buat untuk menyelesaikan masa studi saya di Universitas Negeri Jakarta. Aplikasi ini bertujuan untuk membantu para pembudidaya ikan khususnya diwilayah Kabupaten Bogor. Adapun fitur pada aplikasi ini seperti management pakan, management sortir, management kolam, grading, dll",
+      "images": [
+        "assets/images/portfolio/aquabreeding/1.png",
+        "assets/images/portfolio/aquabreeding/2.png",
+        "assets/images/portfolio/aquabreeding/3.png",
+        "assets/images/portfolio/aquabreeding/4.jpg"
+      ],
+      "playStore": "",
+      "appStore": "",
+      "tag": [
+        "Flutter",
+        "Membuat dari awal",
+        "Android",
+        "Personal"
+      ]
+    }
+  ]
+}

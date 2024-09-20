@@ -1,0 +1,10 @@
+{
+    "dart.flutterSdkPath": "~/fvm/versions/3.3.6",
+    "search.exclude": {
+    "**/.fvm": true
+    },
+  // Remove from file watching
+    "files.watcherExclude": {
+    "**/.fvm": true
+    }
+}
